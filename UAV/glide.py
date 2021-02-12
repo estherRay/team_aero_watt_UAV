@@ -9,3 +9,5 @@ line it up with landing zone near the end of the descent.
 # method to glide safely down to required height safely.
 
 # method to line up the aircraft with landing zone when approaching end of glide.
+
+# Method to height safety: if too low, climb, else if too high, glide down
