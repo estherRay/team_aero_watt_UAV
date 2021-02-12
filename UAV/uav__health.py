@@ -22,3 +22,6 @@ The code in here is just for the UAV side of the pre flight check.
 
 # This is the main method of the code block. Every check is ran and validated here (control)
 
+# Method Battery: receive data, if battery level critical, activate FTS
+
+# Method Sensor: If wind too strong land. If altitude less than ... and not FTS or landing or take off is activated, then climb up to height safety
